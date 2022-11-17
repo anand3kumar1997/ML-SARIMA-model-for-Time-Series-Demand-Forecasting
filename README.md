@@ -6,7 +6,7 @@ ARIMA stands for Autoregressive Integrated Moving Average Model. It belongs to a
 
 SARIMA stands for Seasonal Autoregressive Integrated Moving Average, it is an extension of ARIMA that explicitly supports univariate time series data with a seasonal component. It adds three new hyperparameters to specify the autoregression (AR), differencing (I) and moving average (MA) for the seasonal component of the series, as well as an additional parameter for the period of the seasonality. The seasonal part of the model consists of terms that are very similar to the non-seasonal components of the model, but they involve backshifts of the seasonal period.
 
-## The following is the general procedure for SARIMA models: 
+## General procedure followed for SARIMA model: 
 
 1. Time Series Data Visualization.
 2. Make the data in the time series stationary.

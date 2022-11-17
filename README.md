@@ -9,10 +9,10 @@ three new hyperparameters for the seasonal component of the series: autoregressi
 
 ## The following is the general procedure for ARIMA models: 
 
-• Time Series Data Visualization
-• Make the data in the time series stationary.
-• Draw the Auto-Correlation and Correlation Charts. 
-• Create an ARIMA Model or Seasonal ARIMA using the data. 
-• Make a prediction using the model.
+1. Time Series Data Visualization.
+2. Make the data in the time series stationary.
+3. Draw the Auto-Correlation and Correlation Charts.
+4. Create an ARIMA Model or Seasonal ARIMA using the data. 
+5. Make a prediction using the model.
 
 ![image](https://user-images.githubusercontent.com/94454275/202422073-4795e248-a004-4728-887f-e6095f45f0b4.png)
